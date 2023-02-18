@@ -1,6 +1,6 @@
 import Head from "next/head";
-import Image from "next/image";
 import Link from "next/link";
+import Comments from "./comment";
 
 const name = "kikapapy";
 export const siteTitle = "kikapapy's blog";
@@ -38,6 +38,7 @@ export default function Layout({ children, home }) {
       <main>{children}</main>
       {!home && (
         <div>
+          <Comments />
           <Link href="/">← Back to home</Link>
         </div>
       )}
