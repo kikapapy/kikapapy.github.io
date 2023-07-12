@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "book history"
-summary: "book history"
+title: "[BOOK] Study Book history"
+summary: "Study Book history"
 thumbnail:
 category: etc
 tags: [book]
@@ -14,7 +14,7 @@ sitemap:
   priority: 1.0
 ---
 
-# Book history
+# Study Book history
 
 ## 대여 중
 
@@ -75,26 +75,6 @@ sitemap:
 - [플레이=Play :게임 키드들이 모여 글로벌 기업을 만들기까지, 넥슨 사람들 이야기](https://product.kyobobook.co.kr/detail/S000000619486)
   - 김재훈    서울 :민음사,2015
   - [325.04 ㄱ851ㅍ](https://lib.suwon.ac.kr/#/search/detail/1102694)
-
-### 소설
-- [메리골드 마음 세탁소](https://product.kyobobook.co.kr/detail/S000201142283)
-  - 윤정은    대구 : 북로망스, 2023
-  - [813.7 ㅇ527ㅁ](https://lib.suwon.ac.kr/#/search/detail/1368859)
-- [풍수전쟁 : 김진명 장편소설](https://product.kyobobook.co.kr/detail/S000202215356)
-  - 김진명    서울 : 이타북스, 2023
-  - [813.6 ㄱ885ㅍ](https://lib.suwon.ac.kr/#/search/detail/1371171)
-- [구의 증명 : 최진영 소설](https://product.kyobobook.co.kr/detail/S000201621499)
-  - 최진영    서울 : 은행나무, 2023
-  - [813.7 ㅊ296ㄱ2](https://lib.suwon.ac.kr/#/search/detail/1370124)
-- [아버지의 해방일지 : 정지아 장편소설](https://product.kyobobook.co.kr/detail/S000061694154)
-  - 정지아    파주 : 창비, 2022
-  - [813.7 ㅈ316ㅇ](https://lib.suwon.ac.kr/#/search/detail/1364779)
-- [마당이 있는 집](https://product.kyobobook.co.kr/detail/S000000780087)
-  - 김진영    파주 :엘릭시르 :문학동네,2018
-  - [813.7 ㄱ887ㅁ](https://lib.suwon.ac.kr/#/search/detail/1109362)
-- [눈부신 안부 : 백수린 장편소설](https://product.kyobobook.co.kr/detail/S000202230179)
-  - 백수린    파주 : 문학동네, 2023
-  - [813.7](https://lib.suwon.ac.kr/#/search/detail/1370882)
 
 ## 관심 도서
 - [필독! 개발자 온보딩 가이드](https://product.kyobobook.co.kr/detail/S000202318866)
