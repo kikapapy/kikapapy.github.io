@@ -7,7 +7,7 @@ category: etc
 tags: [book]
 comments: true
 date: "2023-07-12 13:30:00"
-lastmod: "2023-07-12 13:30:00"
+lastmod: "2023-07-17 11:40:00"
 series: blog
 sitemap:
   changefreq: daily
@@ -17,10 +17,6 @@ sitemap:
 # 소설 history
 
 ## 구매 완료
-- [세상의 마지막 기차역](https://product.kyobobook.co.kr/detail/S000061353833)
-  - 무라세 다케시, 김지연 번역, 모모, 2022-05-09
-- [불편한 편의점](https://product.kyobobook.co.kr/detail/S000001803157)
-  - 김호연, 나무옆의자, 2021-04-20
 - [불편한 편의점 2](https://product.kyobobook.co.kr/detail/S000061532631)
   - 김호연, 나무옆의자, 2022-08-10
 - [달러구트 꿈 백화점](https://product.kyobobook.co.kr/detail/S000001835614)
@@ -51,13 +47,19 @@ sitemap:
   - [813.7](https://lib.suwon.ac.kr/#/search/detail/1370882)
 
 ## 완독
-- [날씨가 좋으면 찾아가겠어요](https://product.kyobobook.co.kr/detail/S000000735302)
-  - 이도우, 시공사, 2018-06-28
-  - 2022년 지방 출장 중
-- [두근 두근 내 인생](https://product.kyobobook.co.kr/detail/S000000610593)
-  - 김애란, 창비, 2011-06-20
-  - 2023년 7월 5일, SRT 출장 중
+- [불편한 편의점](https://product.kyobobook.co.kr/detail/S000001803157)
+  - 김호연, 나무옆의자, 2021-04-20
+  - 2023년 7월 16일 일요일, 스타벅스
+- [세상의 마지막 기차역](https://product.kyobobook.co.kr/detail/S000061353833)
+  - 무라세 다케시, 김지연 번역, 모모, 2022-05-09
+  - 2023년 7월 15일 토요일, 스타벅스
 - [펑](https://product.kyobobook.co.kr/detail/S000001775764)
   - 이서현, 마카롱, 2021-08-05
   - 2023년 7월 9일 일요일, 스타벅스
+- [두근 두근 내 인생](https://product.kyobobook.co.kr/detail/S000000610593)
+  - 김애란, 창비, 2011-06-20
+  - 2023년 7월 5일, SRT 출장 중
+- [날씨가 좋으면 찾아가겠어요](https://product.kyobobook.co.kr/detail/S000000735302)
+  - 이도우, 시공사, 2018-06-28
+  - 2022년 지방 출장 중
 
