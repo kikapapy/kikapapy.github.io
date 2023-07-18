@@ -7,7 +7,7 @@ category: etc
 tags: [book]
 comments: true
 date: "2023-07-12 13:30:00"
-lastmod: "2023-07-17 11:40:00"
+lastmod: "2023-07-18 09:30:00"
 series: blog
 sitemap:
   changefreq: daily
@@ -30,6 +30,9 @@ sitemap:
 - [메리골드 마음 세탁소](https://product.kyobobook.co.kr/detail/S000201142283)
   - 윤정은    대구 : 북로망스, 2023
   - [813.7 ㅇ527ㅁ](https://lib.suwon.ac.kr/#/search/detail/1368859)
+- [비가 오면 열리는 상점](https://product.kyobobook.co.kr/detail/S000202657202)
+  - 유영광    클레이하우스, 2023-06-14
+  -  [813.7 ㅇ428ㅂ](https://lib.suwon.ac.kr/#/search/detail/1371467)
 - [풍수전쟁 : 김진명 장편소설](https://product.kyobobook.co.kr/detail/S000202215356)
   - 김진명    서울 : 이타북스, 2023
   - [813.6 ㄱ885ㅍ](https://lib.suwon.ac.kr/#/search/detail/1371171)
@@ -45,6 +48,15 @@ sitemap:
 - [눈부신 안부 : 백수린 장편소설](https://product.kyobobook.co.kr/detail/S000202230179)
   - 백수린    파주 : 문학동네, 2023
   - [813.7](https://lib.suwon.ac.kr/#/search/detail/1370882)
+- [연수](https://product.kyobobook.co.kr/detail/S000202672370)
+  - 장류진    창비, 2023-06-23
+  - [813.7](https://lib.suwon.ac.kr/#/search/detail/1371439)
+
+
+## 관심도서
+- [너무나 많은 여름이](https://product.kyobobook.co.kr/detail/S000202800418)
+  - 김연수    레제, 2023-06-26
+
 
 ## 완독
 - [불편한 편의점](https://product.kyobobook.co.kr/detail/S000001803157)
