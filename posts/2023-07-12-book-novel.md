@@ -7,7 +7,7 @@ category: etc
 tags: [book]
 comments: true
 date: "2023-07-12 13:30:00"
-lastmod: "2023-07-18 09:30:00"
+lastmod: "2023-07-28 13:14:00"
 series: blog
 sitemap:
   changefreq: daily
@@ -51,12 +51,32 @@ sitemap:
 - [연수](https://product.kyobobook.co.kr/detail/S000202672370)
   - 장류진    창비, 2023-06-23
   - [813.7](https://lib.suwon.ac.kr/#/search/detail/1371439)
-
+- [하얼빈](https://product.kyobobook.co.kr/detail/S000061532442)
+  - 김훈    문학동네, 2022-08-03
+  - [813.62 ㄱ993ㅎ](https://lib.suwon.ac.kr/#/search/detail/1364677)
+- [홍학의 자리](https://product.kyobobook.co.kr/detail/S000000781065)
+  - 정해연    엘릭시르, 2021-07-26
+  - [813.7 ㅈ338ㅇ](https://lib.suwon.ac.kr/#/search/detail/1369973)
+- [칵테일, 러브, 좀비](https://product.kyobobook.co.kr/detail/S000001936854)
+  - 조예은    안전가옥, 2020-04-13
+  - [Best 813.7 ㅇ169ㅇ -2](https://lib.suwon.ac.kr/#/search/detail/1358407)
+- [여름의 빌라](https://product.kyobobook.co.kr/detail/S000000780660)
+  - 백수린    문학동네, 2020-07-07
+  - [813.7 ㅂ396ㅇ](https://lib.suwon.ac.kr/#/search/detail/1342000)
 
 ## 관심도서
 - [너무나 많은 여름이](https://product.kyobobook.co.kr/detail/S000202800418)
   - 김연수    레제, 2023-06-26
-
+  - ISBN	9791196722012
+- [아주 희미한 빛으로도](https://product.kyobobook.co.kr/detail/S000203331812)
+  - 최은영    문학동네, 2023-08-07 
+  - ISBN	9788954695053
+- [있을 법한 모든 것](https://product.kyobobook.co.kr/detail/S000203107523)
+  - 구병모    문학동네, 2023-07-25
+  - ISBN	9788954694179
+- [아몬드](https://product.kyobobook.co.kr/detail/S000202972046)
+  - 손원평    다즐링, 2023-07-14
+  - ISBN	9791198363510
 
 ## 완독
 - [불편한 편의점](https://product.kyobobook.co.kr/detail/S000001803157)
