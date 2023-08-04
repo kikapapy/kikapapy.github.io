@@ -7,7 +7,7 @@ category: etc
 tags: [book]
 comments: true
 date: "2023-07-12 13:30:00"
-lastmod: "2023-07-28 13:14:00"
+lastmod: "2023-08-04 10:30:00"
 series: blog
 sitemap:
   changefreq: daily
@@ -33,6 +33,9 @@ sitemap:
 - [비가 오면 열리는 상점](https://product.kyobobook.co.kr/detail/S000202657202)
   - 유영광    클레이하우스, 2023-06-14
   -  [813.7 ㅇ428ㅂ](https://lib.suwon.ac.kr/#/search/detail/1371467)
+- [너무나 많은 여름이](https://product.kyobobook.co.kr/detail/S000202800418)
+  - 김연수    레제, 2023-06-26
+  - [813.6 ㄱ764ㄴ](https://lib.suwon.ac.kr/#/search/detail/1371539)
 - [풍수전쟁 : 김진명 장편소설](https://product.kyobobook.co.kr/detail/S000202215356)
   - 김진명    서울 : 이타북스, 2023
   - [813.6 ㄱ885ㅍ](https://lib.suwon.ac.kr/#/search/detail/1371171)
@@ -63,11 +66,14 @@ sitemap:
 - [여름의 빌라](https://product.kyobobook.co.kr/detail/S000000780660)
   - 백수린    문학동네, 2020-07-07
   - [813.7 ㅂ396ㅇ](https://lib.suwon.ac.kr/#/search/detail/1342000)
+- [밝은 밤](https://product.kyobobook.co.kr/detail/S000000781066)
+  - 최은영  문학동네, 2021-07-27
+  - [Best 813.7 ㅊ268ㅂ](https://lib.suwon.ac.kr/#/search/detail/1357423)
+- [지구 끝의 온실](https://product.kyobobook.co.kr/detail/S000001953324)
+  - 김초엽  자이언트북스, 2021-08-18
+  - [Best 813.7 ㄱ922ㅈ](https://lib.suwon.ac.kr/#/search/detail/1357861?offset=1)
 
 ## 관심도서
-- [너무나 많은 여름이](https://product.kyobobook.co.kr/detail/S000202800418)
-  - 김연수    레제, 2023-06-26
-  - ISBN	9791196722012
 - [아주 희미한 빛으로도](https://product.kyobobook.co.kr/detail/S000203331812)
   - 최은영    문학동네, 2023-08-07 
   - ISBN	9788954695053
@@ -77,6 +83,9 @@ sitemap:
 - [아몬드](https://product.kyobobook.co.kr/detail/S000202972046)
   - 손원평    다즐링, 2023-07-14
   - ISBN	9791198363510
+- [연남동 빙굴빙굴 빨래방](https://product.kyobobook.co.kr/detail/S000203331948)
+  - 김지윤  팩토리나인, 2023-08-18
+  - ISBN	9791165347734
 
 ## 완독
 - [불편한 편의점](https://product.kyobobook.co.kr/detail/S000001803157)
