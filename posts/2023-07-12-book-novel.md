@@ -7,7 +7,7 @@ category: etc
 tags: [book]
 comments: true
 date: "2023-07-12 13:30:00"
-lastmod: "2023-08-04 10:30:00"
+lastmod: "2023-08-07 09:00:00"
 series: blog
 sitemap:
   changefreq: daily
@@ -17,10 +17,6 @@ sitemap:
 # 소설 history
 
 ## 구매 완료
-- [불편한 편의점 2](https://product.kyobobook.co.kr/detail/S000061532631)
-  - 김호연, 나무옆의자, 2022-08-10
-- [달러구트 꿈 백화점](https://product.kyobobook.co.kr/detail/S000001835614)
-  - 이미예, 팩토리나인, 2020-07-08
 - [달러구트 꿈 백화점 2](https://product.kyobobook.co.kr/detail/S000001835707)
   - 이미예, 팩토리나인, 2021-07-27
 - [안젤리크](https://product.kyobobook.co.kr/detail/S000200452466)
@@ -88,6 +84,12 @@ sitemap:
   - ISBN	9791165347734
 
 ## 완독
+- [달러구트 꿈 백화점](https://product.kyobobook.co.kr/detail/S000001835614)
+  - 이미예, 팩토리나인, 2020-07-08
+  - 2023년 8월 6일 일요일, 스타벅스
+- [불편한 편의점 2](https://product.kyobobook.co.kr/detail/S000061532631)
+  - 김호연, 나무옆의자, 2022-08-10
+  - 2023년 8월 5일 토요일, 스타벅스
 - [불편한 편의점](https://product.kyobobook.co.kr/detail/S000001803157)
   - 김호연, 나무옆의자, 2021-04-20
   - 2023년 7월 16일 일요일, 스타벅스
@@ -103,4 +105,3 @@ sitemap:
 - [날씨가 좋으면 찾아가겠어요](https://product.kyobobook.co.kr/detail/S000000735302)
   - 이도우, 시공사, 2018-06-28
   - 2022년 지방 출장 중
-
