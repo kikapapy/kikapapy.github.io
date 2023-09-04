@@ -68,40 +68,47 @@ sitemap:
 - [지구 끝의 온실](https://product.kyobobook.co.kr/detail/S000001953324)
   - 김초엽  자이언트북스, 2021-08-18
   - [Best 813.7 ㄱ922ㅈ](https://lib.suwon.ac.kr/#/search/detail/1357861?offset=1)
-
-## 관심도서
 - [아주 희미한 빛으로도](https://product.kyobobook.co.kr/detail/S000203331812)
   - 최은영    문학동네, 2023-08-07 
-  - ISBN	9788954695053
+  - [813.7 ㅊ268ㅇ](https://lib.suwon.ac.kr/#/search/detail/1371900)
 - [있을 법한 모든 것](https://product.kyobobook.co.kr/detail/S000203107523)
   - 구병모    문학동네, 2023-07-25
-  - ISBN	9788954694179
+  -  [813.7 ㄱ412ㅇ](https://lib.suwon.ac.kr/#/search/detail/1371670)
+- [연남동 빙굴빙굴 빨래방](https://product.kyobobook.co.kr/detail/S000203331948)
+  - 김지윤  팩토리나인, 2023-08-18
+  -[813.7 ㄱ883ㅇ](https://lib.suwon.ac.kr/#/search/detail/1372202)
+
+## 관심도서
 - [아몬드](https://product.kyobobook.co.kr/detail/S000202972046)
   - 손원평    다즐링, 2023-07-14
   - ISBN	9791198363510
-- [연남동 빙굴빙굴 빨래방](https://product.kyobobook.co.kr/detail/S000203331948)
-  - 김지윤  팩토리나인, 2023-08-18
-  - ISBN	9791165347734
 
 ## 완독
 - [달러구트 꿈 백화점](https://product.kyobobook.co.kr/detail/S000001835614)
   - 이미예, 팩토리나인, 2020-07-08
+  - [Best 813.7 ㅇ679ㄷ](https://lib.suwon.ac.kr/#/search/detail/1344129)
   - 2023년 8월 6일 일요일, 스타벅스
 - [불편한 편의점 2](https://product.kyobobook.co.kr/detail/S000061532631)
   - 김호연, 나무옆의자, 2022-08-10
+  - [Best 813.7 ㄱ976ㅂ -2](https://lib.suwon.ac.kr/#/search/detail/1364181)
   - 2023년 8월 5일 토요일, 스타벅스
 - [불편한 편의점](https://product.kyobobook.co.kr/detail/S000001803157)
   - 김호연, 나무옆의자, 2021-04-20
+  - [Best 813.7 ㄱ976ㅂ](https://lib.suwon.ac.kr/#/search/detail/1348594)
   - 2023년 7월 16일 일요일, 스타벅스
 - [세상의 마지막 기차역](https://product.kyobobook.co.kr/detail/S000061353833)
   - 무라세 다케시, 김지연 번역, 모모, 2022-05-09
+  - [Best 833.6 ㅊ136ㅅkㄱ](https://lib.suwon.ac.kr/#/search/detail/1363174)
   - 2023년 7월 15일 토요일, 스타벅스
 - [펑](https://product.kyobobook.co.kr/detail/S000001775764)
   - 이서현, 마카롱, 2021-08-05
+  - ISBN  9791159098710
   - 2023년 7월 9일 일요일, 스타벅스
 - [두근 두근 내 인생](https://product.kyobobook.co.kr/detail/S000000610593)
   - 김애란, 창비, 2011-06-20
+  - [813.6 ㄱ746ㄷ](https://lib.suwon.ac.kr/#/search/detail/1067916)
   - 2023년 7월 5일, SRT 출장 중
 - [날씨가 좋으면 찾아가겠어요](https://product.kyobobook.co.kr/detail/S000000735302)
   - 이도우, 시공사, 2018-06-28
+  - [813.7 ㅇ641ㄴ](https://lib.suwon.ac.kr/#/search/detail/1109345)
   - 2022년 지방 출장 중

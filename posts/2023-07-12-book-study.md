@@ -18,22 +18,15 @@ sitemap:
 
 ## 대여 중
 
-### ID : 16xxxxx (반납일 7/19)
-- [(전문가를 위한) C＋＋ : C＋＋20, 병렬 알고리즘, 파일시스템, 제네릭 람다, 다자인 패턴, 객체지향의 원리를 익히는 확실한 방법](https://product.kyobobook.co.kr/detail/S000201305611)
-  - [005.133 ㄱ467ㅆkㄴ5](https://lib.suwon.ac.kr/#/search/detail/1370229)
-
-### ID : 11XXXXX( 반납일 9/05)
-- [Effective C# :강력한 C# 코드를 구현하는 50가지 전략과 기법](https://product.kyobobook.co.kr/detail/S000001809981)
-  - [005.133 ㅇ347ㅇkㄱ](https://lib.suwon.ac.kr/#/search/detail/1357524)
-- [More effective C# :더 강력한 C# 코드를 구현하는 50가지 추가 전략과 기법](https://product.kyobobook.co.kr/detail/S000001810063)
-  - [005.133 ㅇ347ㅁkㄱ](https://lib.suwon.ac.kr/#/search/detail/1357525)
-- [컴파일러 개발자가 들려주는 C 이야기 : 아무도 알려주지 않던 심오한 C의 비밀](https://product.kyobobook.co.kr/detail/S000001033126)
-  - [005.13 ㅍ364ㅋkㅈ](https://lib.suwon.ac.kr/#/search/detail/1360967)
-- [(한 줄 한 줄 짜면서 익히는) 러스트 프로그래밍](https://product.kyobobook.co.kr/detail/S000061351231)
-  - [005.133 ㅁ222ㄹkㅈ](https://lib.suwon.ac.kr/#/search/detail/1364641)
 
 ## 대여 대기
 ### Study
+- [모던 C++ 입문](https://product.kyobobook.co.kr/detail/S000001792598)
+  - Gottschling, Peter    서울 :길벗,2017
+  - [005.133 ㄱ354ㅁkㅇ](https://lib.suwon.ac.kr/#/search/detail/1105787)
+- [시작하자! C++17 프로그래밍 :현란한 구글 코딩 스타일과 정교한 IBM 개발 표준에 기초한 C++ 언어학습서](https://product.kyobobook.co.kr/detail/S000001964312)
+  - 박헌재    서울 :투에이치앤에스,2017
+  - [005.133 ㅂ358ㅅ](https://lib.suwon.ac.kr/#/search/detail/1101912)
 - [(아무도 알려주지 않은) C++ 코딩의 기술](https://product.kyobobook.co.kr/detail/S000201493517)
   - 전상현    서울 : 로드북, 2023
   - [005.133 ㅈ143ㅅ](https://lib.suwon.ac.kr/#/search/detail/1370089)
@@ -43,12 +36,6 @@ sitemap:
 - [밑바닥부터 만드는 컴퓨팅 시스템 : 불 논리부터 컴퓨터 아키텍처, 운영체제까지](https://product.kyobobook.co.kr/detail/S000201485097)
   - Nisan, Noam    서울 : 인사이트, 2023
   - [005.13 ㄴ299ㅁkㄱ2](https://lib.suwon.ac.kr/#/search/detail/1370945)
-- [모던 C++ 입문](https://product.kyobobook.co.kr/detail/S000001792598)
-  - Gottschling, Peter    서울 :길벗,2017
-  - [005.133 ㄱ354ㅁkㅇ](https://lib.suwon.ac.kr/#/search/detail/1105787)
-- [시작하자! C++17 프로그래밍 :현란한 구글 코딩 스타일과 정교한 IBM 개발 표준에 기초한 C++ 언어학습서](https://product.kyobobook.co.kr/detail/S000001964312)
-  - 박헌재    서울 :투에이치앤에스,2017
-  - [005.133 ㅂ358ㅅ](https://lib.suwon.ac.kr/#/search/detail/1101912)
 - [클린코드 :애자일 소프트웨어 장인 정신](https://product.kyobobook.co.kr/detail/S000001032980)
   - Martin, Robert C    서울 :인사이트,2014
   - [005.1 ㅁ216ㅋkㅂ](https://lib.suwon.ac.kr/#/search/detail/1337971)
@@ -70,26 +57,16 @@ sitemap:
 - [이펙티브 C++ :C++ 프로그래밍과 설계 기술을 향상시켜 주는 명쾌한 55가지 테크닉 모음](https://product.kyobobook.co.kr/detail/S000000676779)
   - Meyers, Scott    서울 :피어슨에듀케이션코리아,2006.
   - [005.133 ㅁ212ㅇkㄱ](https://lib.suwon.ac.kr/#/search/detail/700829)
-
-### 기타
-- [플레이=Play :게임 키드들이 모여 글로벌 기업을 만들기까지, 넥슨 사람들 이야기](https://product.kyobobook.co.kr/detail/S000000619486)
-  - 김재훈    서울 :민음사,2015
-  - [325.04 ㄱ851ㅍ](https://lib.suwon.ac.kr/#/search/detail/1102694)
-
-## 관심 도서
-- [필독! 개발자 온보딩 가이드](https://product.kyobobook.co.kr/detail/S000202318866)
-  - 크리스 리코미니 , 드미트리 리아보이 저자(글) · 장현희 번역
-  - 책만 · 2023년 05월 31일
-  - 25,000원
-  - ISBN    9791189909529
-  - 발행(출시)일자    2023년 05월 31일
-  - 쪽수    376쪽
-  - 원서명/저자명    The Missing Readme/Chris Riccomini
-- [Effective Modern C++(이펙티브 모던 C++) : C++11과 C++14를 효과적으로 사용하는 42가지 방법](https://product.kyobobook.co.kr/detail/S000001033019)
-  - 스콧 마이어스 저자(글)  | 류광 번역
-  - 인사이트 2015년 09월 18일
-   
-## 대여이력
+- [(전문가를 위한) C＋＋ : C＋＋20, 병렬 알고리즘, 파일시스템, 제네릭 람다, 다자인 패턴, 객체지향의 원리를 익히는 확실한 방법](https://product.kyobobook.co.kr/detail/S000201305611)
+  - [005.133 ㄱ467ㅆkㄴ5](https://lib.suwon.ac.kr/#/search/detail/1370229)
+- [Effective C# :강력한 C# 코드를 구현하는 50가지 전략과 기법](https://product.kyobobook.co.kr/detail/S000001809981)
+  - [005.133 ㅇ347ㅇkㄱ](https://lib.suwon.ac.kr/#/search/detail/1357524)
+- [More effective C# :더 강력한 C# 코드를 구현하는 50가지 추가 전략과 기법](https://product.kyobobook.co.kr/detail/S000001810063)
+  - [005.133 ㅇ347ㅁkㄱ](https://lib.suwon.ac.kr/#/search/detail/1357525)
+- [컴파일러 개발자가 들려주는 C 이야기 : 아무도 알려주지 않던 심오한 C의 비밀](https://product.kyobobook.co.kr/detail/S000001033126)
+  - [005.13 ㅍ364ㅋkㅈ](https://lib.suwon.ac.kr/#/search/detail/1360967)
+- [(한 줄 한 줄 짜면서 익히는) 러스트 프로그래밍](https://product.kyobobook.co.kr/detail/S000061351231)
+  - [005.133 ㅁ222ㄹkㅈ](https://lib.suwon.ac.kr/#/search/detail/1364641)
 - [(Do it!) 클론 코딩 트위터 =Do it! clone coding Twitter :노마드 코더 니꼴라스와 만드는 트위터 서비스](https://product.kyobobook.co.kr/detail/S000001818026)
   - [005.58 ㅇ121ㅋkㄱ](https://lib.suwon.ac.kr/#/search/detail/1358516)
 - [(모던 자바스크립트 개발자를 위한) 리액트 프로그래밍 :Node.js와 리액트를 활용한 최신 프런트엔드/백엔드 프로그래밍](https://product.kyobobook.co.kr/detail/S000001766313)
@@ -118,3 +95,24 @@ sitemap:
   - [005.115 ㅈ449ㄱ](https://lib.suwon.ac.kr/#/search/detail/1340378)
 - [OpenCV로 배우는 영상 처리 및 응용](https://product.kyobobook.co.kr/detail/S000001076285)
   - [004.76 ㅈ248ㅇ](https://lib.suwon.ac.kr/#/search/detail/1097455)
+
+
+### 기타
+- [플레이=Play :게임 키드들이 모여 글로벌 기업을 만들기까지, 넥슨 사람들 이야기](https://product.kyobobook.co.kr/detail/S000000619486)
+  - 김재훈    서울 :민음사,2015
+  - [325.04 ㄱ851ㅍ](https://lib.suwon.ac.kr/#/search/detail/1102694)
+
+## 관심 도서
+- [필독! 개발자 온보딩 가이드](https://product.kyobobook.co.kr/detail/S000202318866)
+  - 크리스 리코미니 , 드미트리 리아보이 저자(글) · 장현희 번역
+  - 책만 · 2023년 05월 31일
+  - 25,000원
+  - ISBN    9791189909529
+  - 발행(출시)일자    2023년 05월 31일
+  - 쪽수    376쪽
+  - 원서명/저자명    The Missing Readme/Chris Riccomini
+  - 전자책
+- [Effective Modern C++(이펙티브 모던 C++) : C++11과 C++14를 효과적으로 사용하는 42가지 방법](https://product.kyobobook.co.kr/detail/S000001033019)
+  - 스콧 마이어스 저자(글)  | 류광 번역
+  - 인사이트 2015년 09월 18일
+  - ISBN  9788966261642

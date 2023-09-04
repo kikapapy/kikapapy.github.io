@@ -49,3 +49,4 @@ sitemap:
 - [26 3나노칩 먼저 경험하는 아이폰 이용자들](https://www.asiae.co.kr/article/2023081113380230241)
 - [27 '애플에 올인' TSMC 운명 바꾼 선택](https://www.asiae.co.kr/article/2023081616104453166)
 - [28 "우리가 삼성에 뒤졌다" TSMC 모리스 창의 탄식](https://www.asiae.co.kr/article/2023081912580415996)
+- [29 TSMC 모리스 창의 '굴욕'‥계산기·영화 ET](https://www.asiae.co.kr/article/2023082423005203106)
