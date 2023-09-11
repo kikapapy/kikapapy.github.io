@@ -2,8 +2,8 @@ import Head from "next/head";
 import Link from "next/link";
 import Comments from "./comment";
 
-const name = "kikapapy";
-export const siteTitle = "kikapapy's blog";
+const name = "vooo.kr";
+export const siteTitle = "blog";
 
 export default function Layout({ children, home }) {
   return (

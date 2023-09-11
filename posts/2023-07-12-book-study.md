@@ -17,16 +17,18 @@ sitemap:
 # Study Book history
 
 ## 대여 중
-
-
-## 대여 대기
-### Study
+- [플레이=Play :게임 키드들이 모여 글로벌 기업을 만들기까지, 넥슨 사람들 이야기](https://product.kyobobook.co.kr/detail/S000000619486)
+  - 김재훈    서울 :민음사,2015
+  - [325.04 ㄱ851ㅍ](https://lib.suwon.ac.kr/#/search/detail/1102694)
 - [모던 C++ 입문](https://product.kyobobook.co.kr/detail/S000001792598)
   - Gottschling, Peter    서울 :길벗,2017
   - [005.133 ㄱ354ㅁkㅇ](https://lib.suwon.ac.kr/#/search/detail/1105787)
 - [시작하자! C++17 프로그래밍 :현란한 구글 코딩 스타일과 정교한 IBM 개발 표준에 기초한 C++ 언어학습서](https://product.kyobobook.co.kr/detail/S000001964312)
   - 박헌재    서울 :투에이치앤에스,2017
   - [005.133 ㅂ358ㅅ](https://lib.suwon.ac.kr/#/search/detail/1101912)
+
+## 대여 대기
+### Study
 - [(아무도 알려주지 않은) C++ 코딩의 기술](https://product.kyobobook.co.kr/detail/S000201493517)
   - 전상현    서울 : 로드북, 2023
   - [005.133 ㅈ143ㅅ](https://lib.suwon.ac.kr/#/search/detail/1370089)
@@ -98,9 +100,7 @@ sitemap:
 
 
 ### 기타
-- [플레이=Play :게임 키드들이 모여 글로벌 기업을 만들기까지, 넥슨 사람들 이야기](https://product.kyobobook.co.kr/detail/S000000619486)
-  - 김재훈    서울 :민음사,2015
-  - [325.04 ㄱ851ㅍ](https://lib.suwon.ac.kr/#/search/detail/1102694)
+
 
 ## 관심 도서
 - [필독! 개발자 온보딩 가이드](https://product.kyobobook.co.kr/detail/S000202318866)
